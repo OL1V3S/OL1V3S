@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Oliver Triana
 
-<!--
-**OL1V3S/OL1V3S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student** @ University of Nebraska–Lincoln (Class of 2027)  
+Currently learning: Full-stack development and software architecture  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I've worked on
+
+- [**Church Website**](https://templobautista.net/)  
+  Responsive React site for a local church — built with Vite
+  [GitHub Repo](https://github.com/OL1V3S/church_site)
+
+- [**Online Grocery Store App**](https://github.com/OL1V3S/361_Project)  
+  Full-stack e-commerce app using React + C# + EF Core  
+  Features cart, user auth, xUnit-tested backend, and proxy-based frontend/backend communication
+
+- [**YRLess Sales Management System**](https://github.com/OL1V3S/156_project)  
+  Java + SQL multi-layered desktop app to manage telecom sales, leasing, and tax logic
+
+---
+
+## Contact Me
+
+📧 Email: [olivertriana7319@gmail.com](mailto:olivertriana7319@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/oliver-triana](https://www.linkedin.com/in/oliver-triana/)  
+💻 GitHub: [github.com/OL1V3S](https://github.com/OL1V3S)
+
+
