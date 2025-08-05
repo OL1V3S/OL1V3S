@@ -20,9 +20,8 @@ Currently learning: Full-stack development and software architecture
 
 ---
 
-## Contact Me
+## Contact
 
-Email: [olivertriana7319@gmail.com](mailto:olivertriana7319@gmail.com)  
 LinkedIn: [linkedin.com/in/oliver-triana](https://www.linkedin.com/in/oliver-triana/) 
 
 
