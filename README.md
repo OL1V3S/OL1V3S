@@ -1,7 +1,6 @@
 # Hi, I'm Oliver
 
 **Computer Science Student** @ University of Nebraska–Lincoln (Class of 2027)  
-Currently learning: Full-stack development and software architecture  
 
 ---
 
