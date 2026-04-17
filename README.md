@@ -1,6 +1,6 @@
 # Hi, I'm Oliver
 
-**Computer Science Student** @ University of Nebraska–Lincoln (Class of 2027)  
+Computer Science Student @ University of Nebraska–Lincoln (Class of 2027)  
 
 ---
 
@@ -14,11 +14,11 @@
   To-Do list with task persistence using localStorage. Built with HTML, CSS, and Javascript.
 
 - [**Online Grocery Store App**](https://github.com/OL1V3S/361_Project)  
-  Full-stack e-commerce app using React + C# + EF Core  
-  Features cart, user auth, xUnit-tested backend, and proxy-based frontend/backend communication
+  Full-stack app using React + C# + EF Core  
+  Features cart, user auth, xUnit-tested backend, and frontend/backend communication
 
 - [**YRLess Sales Management System**](https://github.com/OL1V3S/156_project)  
-  Java + SQL multi-layered desktop app to manage telecom sales, leasing, and tax logic
+  Java + SQL multi-layered desktop app to manage sales, leasing, and tax logic
 
 ---
 
