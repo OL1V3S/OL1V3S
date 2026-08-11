@@ -1,35 +1,47 @@
 # Hi, I'm Oliver
 
-Computer Science Student @ University of Nebraska–Lincoln (Class of 2027)
+I'm a Computer Science student at the University of Nebraska–Lincoln graduating in May 2027.
 
-Portfolio: [OL1V3S.github.io/portfolio](https://OL1V3S.github.io/portfolio/)
+I'm interested in full-stack, backend, and general software engineering.
 
----
+## Projects
 
-## Projects I've worked on
+### [Budget Planner](https://github.com/OL1V3S/budget_planner)
+**React · ASP.NET Core · PostgreSQL · xUnit · Docker**
 
-- [**Budget Planner**](https://oli-budget-planner.vercel.app/)  
-  A full-stack budget planner web application that allows users to track expenses, set monthly budget limits, and visualize spending by category.  
-  [GitHub Repo](https://github.com/OL1V3S/budget_planner)
+Full-stack personal finance application with user-specific expense tracking, category budgets, filtering, and spending visualizations.
 
-- [**Church Website**](https://templobautista.net/)  
-  Responsive React site for a local church, built with Vite.  
-  [GitHub Repo](https://github.com/OL1V3S/church_site)
+- ASP.NET Identity and JWT authentication
+- Email confirmation and password-reset flows
+- Gmail API email delivery
+- Rate-limited account-confirmation recovery
+- Integration and service testing
+- Deployed with Vercel, Render, and Neon
 
-- [**To-Do List**](https://ol1v3s.github.io/todo_list/)  
-  To-do list with task persistence using localStorage. Built with HTML, CSS, and JavaScript.  
-  [GitHub Repo](https://github.com/OL1V3S/todo_list)
+**[Live App](https://oli-budget-planner.vercel.app/)**
 
-- [**Online Grocery Store App**](https://github.com/OL1V3S/361_Project)  
-  Full-stack app using React, C#, and EF Core. Features cart, user authentication, xUnit-tested backend, and frontend/backend communication.  
-  [GitHub Repo](https://github.com/OL1V3S/361_Project)
+### [Templo Bautista Website](https://github.com/OL1V3S/church_site)
+**React · Vite · JavaScript · GitHub Actions**
 
-- [**YRLess Sales Management System**](https://github.com/OL1V3S/156_project)  
-  Java + SQL multi-layered desktop app to manage sales, leasing, and tax logic.  
-  [GitHub Repo](https://github.com/OL1V3S/156_project)
+Responsive production website built for a local church while working directly with stakeholders.
 
----
+- Responsive design
+- Automated build and deployment with GitHub Actions
 
-## Contact
+**[Live Site](https://templobautista.net/)**
 
-LinkedIn: [linkedin.com/in/oliver-triana](https://www.linkedin.com/in/oliver-triana/)
+### [Online Grocery Store](https://github.com/OL1V3S/361_Project)
+**C# · ASP.NET Core · Entity Framework Core · React · xUnit**
+
+Team-built e-commerce application.
+
+- Product, customer, cart, and persistence functionality
+- Layered controller / manager / engine / data-access architecture
+- Dependency injection
+- xUnit testing
+- SOLID-oriented design
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/oliver-triana/) ·
+[Portfolio](https://ol1v3s.github.io/portfolio/)
