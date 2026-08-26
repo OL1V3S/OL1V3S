@@ -6,7 +6,7 @@ I'm interested in full-stack, backend, and general software engineering.
 
 ## Projects
 
-### [Budget Planner](https://github.com/OL1V3S/budget_planner)
+### [Ordo](https://github.com/OL1V3S/budget_planner)
 **React · ASP.NET Core · PostgreSQL · xUnit · Docker**
 
 Full-stack personal finance application with user-specific expense tracking, category budgets, filtering, and spending visualizations.
